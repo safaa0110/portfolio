@@ -1,0 +1,6 @@
+.idea
+node_modules
+css/*.css
+css/*.css.map!/.gitignore
+!/commands.txt
+!/readme.md
